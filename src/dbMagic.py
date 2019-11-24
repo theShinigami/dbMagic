@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
+#
+#
+#   author: Sal
+#   name:   dbMagic
+#   Date: Feb 23 2019
+#
 import sys
 import glob
 import argparse
-import threading
 from tqdm import tqdm
 
 class DBMagic:
